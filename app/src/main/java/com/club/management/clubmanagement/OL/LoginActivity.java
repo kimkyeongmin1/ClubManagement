@@ -18,6 +18,7 @@ public class LoginActivity extends AppCompatActivity {
     // 파레트 아이디 설정 변수
     EditText userId, userPW;
     Button loginBtn;
+    //eeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
     // DB 통신위한 NetworkTask 클래스 생성
     NetworkTask networkTask = new NetworkTask();
